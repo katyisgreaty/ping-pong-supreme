@@ -3,7 +3,10 @@
 var bigPingPong = function(number) {
   var count = [];
   for(var index = 1; index <= number; index++) {
-    if (index % 15 === 0) {
+    if (index % 100 === 0) {
+      count.push("PIIIING-POOOOONG");
+    }
+    else if (index % 15 === 0) {
       count.push("ping-pong");
     } else if (index % 5 === 0) {
       count.push("pong");
