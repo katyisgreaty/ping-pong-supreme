@@ -33,7 +33,7 @@ _A webpage that will return "ping", "pong", or "ping-pong" depending on the numb
 
 ## Known Bugs
 
-_{Are there issues that have not yet been resolved that you want to let users know you know?  Outline any issues that would impact use of your application.  Share any workarounds that are in place. }_
+_I would have preferred for the results to show in an unordered list._
 
 ## Support and contact details
 
