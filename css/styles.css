@@ -3,19 +3,29 @@
   color: white;
   text-align: center;
   font-size: 80px;
+  margin-left: 0px;
 }
 
 #pingPongIt {
-  max-width: 700px;
   margin-right: auto;
   margin-left: auto;
+  background-color: #57d0c8;
+  padding: 20px;
+  border-radius: 10px;
 }
 
 .result {
-  max-width: 700px;
+  max-width: 95%;
   margin-right: auto;
   margin-left: auto;
   margin-top: 30px;
+}
+
+.sidebar {
+  background-color: #5760d0;
+  border-radius: 10px;
+  margin-right: auto;
+  margin-left: auto;
 }
 
 .initial {
