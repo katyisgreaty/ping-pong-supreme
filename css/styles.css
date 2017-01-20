@@ -11,6 +11,7 @@ body {
   margin-right: auto;
   max-width: 95%;
   border-radius: 10px;
+  font-family: 'Titillium Web', sans-serif;
 }
 
 #pingPongIt {
@@ -53,4 +54,8 @@ body {
 
 .sideHeader {
   color: white;
+}
+
+#bigSideHeader {
+  font-size: 28px;
 }
