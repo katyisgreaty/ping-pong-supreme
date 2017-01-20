@@ -29,7 +29,7 @@ _A webpage that will return "ping", "pong", or "ping-pong" depending on the numb
 * _For numbers divisible by 15, the program will replace that number with "ping-pong"_
         _example input: 15_
         _example output: 1, 2, ping, 4, pong, ping, 7, 8, ping, pong, 11, ping, 13, 14, ping-pong_
-* _See your response_
+* _When a new number is submitted, the program should replace the old result with the new one_
 
 ## Known Bugs
 
@@ -37,14 +37,14 @@ _{Are there issues that have not yet been resolved that you want to let users kn
 
 ## Support and contact details
 
-_{Let people know what to do if they run into any issues or have questions, ideas or concerns.  Encourage them to contact you or make a contribution to the code.}_
+_For questions or comments please contact Katy at katy.daviscourt@gmail.com_
 
 ## Technologies Used
 
-_{Tell me about the languages and tools you used to create this app. Assume that I know you probably used HTML and CSS. If you did something really cool using only HTML, point that out.}_
+_HTML, CSS, Javascript, Bootstrap, and Jquery_
 
 ### License
 
-*{Determine the license under which this application can be used.  See below for more details on licensing.}*
+*MIT*
 
-Copyright (c) 2016 **_{List of contributors or company name}_**
+Copyright (c) 2017 **_Katy Daviscourt_**
