@@ -1,4 +1,4 @@
-# _Ping Pong_
+# _Ping Pong Supreme_
 
 #### _A ping pong webpage game, 1.20.17_
 
@@ -6,7 +6,7 @@
 
 ## Description
 
-_A webpage that will return "ping", "pong", or "ping-pong" depending on the number entered by the user_
+_A webpage that will return "ping", "pong", or "ping-pong" depending on the number entered by the user. Can be found at https://github.com/katyisgreaty/ping-pong-supreme_
 
 ## Setup/Installation Requirements
 
