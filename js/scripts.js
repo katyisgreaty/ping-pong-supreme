@@ -1,8 +1,12 @@
 
 
 var bigPingPong = function(number) {
-
-  
+  var count = [];
+  for(var index = 1; index <= number; index++) {
+    count.push(index);
+  }
+  return count;
+  // return number + ", " + (number - (count.length - 1)) ;
 };
 
 
@@ -15,7 +19,7 @@ $(document).ready(function(){
     // var numberInputParse = parseInt($("input#numberEntry").val());
     // var numberInputLength = numberInput.length;
 
-    $(".result").text(bigRomanConvert(numberInput));
+    $(".result").text(bigPingPong(numberInput));
 
   });
 });
