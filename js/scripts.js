@@ -5,7 +5,8 @@ var bigPingPong = function(number) {
   for(var index = 1; index <= number; index++) {
     count.push(index);
   }
-  return count;
+  var countAsString = count.join(", ");
+  return countAsString;
   // return number + ", " + (number - (count.length - 1)) ;
 };
 
