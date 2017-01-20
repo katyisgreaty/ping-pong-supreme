@@ -18,17 +18,17 @@ _A webpage that will return "ping", "pong", or "ping-pong" depending on the numb
 ## Specifications
 
 * _The program can count up to the required number_
-    _example input: 3_
-    _example output: 1, 2, 3_
+    * _example input: 3_
+    * _example output: 1, 2, 3_
 * _For numbers divisible by 3, the program will replace that number with "ping"_
-    _example input: 6_
-    _example output: 1, 2, ping, 4, 5, ping_
+    * _example input: 6_
+    * _example output: 1, 2, ping, 4, 5, ping_
 * _For numbers divisible by 5, the program will replace that number with "pong"_
-    _example input: 10_
-    _example output: 1, 2, ping, 4, pong, ping, 7, 8, ping, pong_
+    * _example input: 10_
+    * _example output: 1, 2, ping, 4, pong, ping, 7, 8, ping, pong_
 * _For numbers divisible by 15, the program will replace that number with "ping-pong"_
-        _example input: 15_
-        _example output: 1, 2, ping, 4, pong, ping, 7, 8, ping, pong, 11, ping, 13, 14, ping-pong_
+    * _example input: 15_
+    * _example output: 1, 2, ping, 4, pong, ping, 7, 8, ping, pong, 11, ping, 13, 14, ping-pong_
 * _When a new number is submitted, the program should replace the old result with the new one_
 
 ## Known Bugs
