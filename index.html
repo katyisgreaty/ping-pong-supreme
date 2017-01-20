@@ -11,13 +11,26 @@
   <body>
     <div class="container">
       <h1 class = "jumbotron minky">Ping-Pong Supreme!</h1>
-      <form id="pingPongIt">
-        <div class="form-group">
-          <label for="numberEntry">Enter a number</label>
-          <input type="number" id="numberEntry" class="form-control">
+      <div class="row">
+        <div class="col-md-4">
+          <h3 class = "sidebar">About Ping-Pong Supreme</h3>
+          <h4>Created by:</h4>
+          <p class = "initial">Katy Daviscourt</p>
+          <h4>GitHub Username/URL:</h4>
+          <p class = "secondary">katyisgreaty https://github.com/katyisgreaty/ping-pong-supreme</p>
+          <h4>Week 3 Project for:</h4>
+          <p class = "initial">Javascript and Behavior-Driven Design</p>
         </div>
-        <button type="submit" class="btn btn-success">Let's Play!</button>
-      </form>
+        <div class="col-md-8">
+          <form id="pingPongIt">
+            <div class="form-group">
+              <label for="numberEntry">Enter a number</label>
+              <input type="number" id="numberEntry" class="form-control">
+            </div>
+            <button type="submit" class="btn btn-success">Let's Play!</button>
+          </form>
+        </div>
+      </div>
       <div class="result"></div>
     </div>
   </body>
