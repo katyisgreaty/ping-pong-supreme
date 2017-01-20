@@ -3,7 +3,11 @@
 var bigPingPong = function(number) {
   var count = [];
   for(var index = 1; index <= number; index++) {
+    if (index % 3 ===0) {
+      count.push("ping");
+    } else {
     count.push(index);
+    }
   }
   var countAsString = count.join(", ");
   return countAsString;
