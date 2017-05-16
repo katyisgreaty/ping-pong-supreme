@@ -1,6 +1,6 @@
 # _Ping Pong Supreme_
 
-#### _A ping pong webpage game, 1.20.17_
+#### _A Ping Pong webpage game, 1.20.17_
 
 #### By _**Katy Daviscourt**_
 
